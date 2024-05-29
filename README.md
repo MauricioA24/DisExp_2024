@@ -20,3 +20,5 @@ Repositorio para almacenar los scripts de los diferentes diseños experimentales
 + 
 
 ### Contribución de repositorio
+![Captura de pantalla (18)](https://github.com/MauricioA24/Disexp_2024/assets/166415872/50630e91-512c-4da8-8b55-111e6927903f)
+
