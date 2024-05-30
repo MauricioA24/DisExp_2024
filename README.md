@@ -20,7 +20,7 @@ Repositorio para almacenar los scripts de los diferentes diseños experimentales
 + Laboratorio 1: Utilizacion de sumas con github y preguntas cualitativas y cuantitativas
   
 ### Tareas
-+ Tarea 2
++ Tarea 2:  Utilizacion de paginas seguras y histogramas de mamiferos
 
 ### Contribución de repositorio
 ![Captura de pantalla (18)](https://github.com/MauricioA24/Disexp_2024/assets/166415872/50630e91-512c-4da8-8b55-111e6927903f)
